@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf6f124a086d2ce458f36d4de2a747f7, type: 3}
+  m_Name: question_3_data
+  m_EditorClassIdentifier: 
+  Text: "Qual o \xF3rg\xE3o respons\xE1vel por executar a\xE7\xF5es preventivas, de
+    socorro, assistenciais e reconstrutivas destinadas a evitar ou minimizar os desastres
+    naturais?"
+  Audio: {fileID: 8300000, guid: 066a6ec0714482341afd5a712a77e6c1, type: 3}
+  Time: 10
+  AnswerTime: 10
+  Answers:
+  - Text: Bombeiros
+    Audio: {fileID: 8300000, guid: 0458e32359ea51f40b7182cf633ed967, type: 3}
+    IsCorrect: 0
+  - Text: Defesa civil
+    Audio: {fileID: 8300000, guid: 4193646f175ef3f44b12557925556575, type: 3}
+    IsCorrect: 1
+  - Text: "Pol\xEDcia militar"
+    Audio: {fileID: 8300000, guid: fcd2501d8943aa0429ea759cd6784c05, type: 3}
+    IsCorrect: 0
+  - Text: SAMU
+    Audio: {fileID: 8300000, guid: c8efa3e6d20a984438adbe81f3d06850, type: 3}
+    IsCorrect: 0
